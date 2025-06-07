@@ -160,4 +160,4 @@ fi
 
 set -o vi
 
-
+eval "$(mise activate bash)"
